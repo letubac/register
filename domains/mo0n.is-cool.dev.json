@@ -1,16 +1,15 @@
-{	
-    "description": "Domain for sharing Pinyin Chinese.",	
-    "domain": "is-cool.dev",	
-    "subdomain": "mo0n",	
+{
+    "description": "Domain to sharing for Pinyin Chinese.",
+    "subdomain": "mo0n",
 
-    "owner": {	
-        "email": "chungquex2@gmail.com",	
-        "github": "letubac"	
-    },	
+    "owner": {
+        "email": "chungquex2@gmail.com",
+        "github": "letubac"
+    },
 
-    "record": {	
-        "A": ["171.235.166.13"]	
-    },	
+    "record": {
+        "A": ["171.235.166.13"]
+    },
 
-    "proxied": false	
+    "proxied": false
 }
